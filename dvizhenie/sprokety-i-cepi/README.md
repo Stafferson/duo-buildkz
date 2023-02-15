@@ -16,7 +16,7 @@ description: Жұлдызшалар негіздері
 
 Жұлдызшаның ең көп таралған және маңызды ерекшеліктері төмендегі суретте көрсетілген.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Тістердің саны" %}
