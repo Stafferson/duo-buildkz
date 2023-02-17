@@ -41,6 +41,13 @@
   * [Серво қуат модулі](dvizhenie/servos/servo-power-module.md)
 * [Уақыт белдіктері мен шкивтер](dvizhenie/timing-belts-and-pulleys.md)
 
+## ҚҰРАСТЫРУ ӘДІСТЕРІ
+
+* [Құрастыру бойынша кеңестер мен амалдар](rastyru-disteri/rastyru-boiynsha-ke-ester-men-amaldar.md)
+* [Қолдау қозғалысы](rastyru-disteri/oldau-oz-alysy.md)
+* [Қозғалысты шектеу](rastyru-disteri/oz-alysty-shekteu.md)
+* [Үйлесімділік](rastyru-disteri/ilesimdilik.md)
+
 ## Құрастыру нұсқаулығы
 
 * [Сызықтық Қозғалыс Жүйесінің Жиынтығы](build-guides/nabor-sistemy-lineinogo-peremesheniya/README.md)
