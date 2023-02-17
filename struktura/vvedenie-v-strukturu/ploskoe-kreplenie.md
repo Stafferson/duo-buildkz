@@ -1,5 +1,5 @@
 ---
-description: Основы плоского крепления
+description: Тегіс орнату негіздері
 ---
 
 # Flat Beams
