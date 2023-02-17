@@ -2,7 +2,7 @@
 
 ### Құрылым негіздері [Extrusion](https://www.revrobotics.com/ftc/structure/15mm-extrusion/) [Channel](https://www.revrobotics.com/competition/ftc/structure/channel/) [M3](https://www.revrobotics.com/ftc/hardware/fasteners/)
 
-REV DUO Build System екі негізгі құрылымдық құрамдас бөлікке ие,  [Extrusion](https://www.revrobotics.com/ftc/structure/15mm-extrusion/) және [Channel](https://www.revrobotics.com/competition/ftc/structure/channel/) . REV Extrusion бұл барлық төрт жағында [M3](https://www.revrobotics.com/ftc/hardware/fasteners/)  форматындағы бұйымдарға арналған ойықтары бар тікбұрышты құрылымдық рельс. Экструзиядағы ойықтар кронштейндер мен басқа заттарды рельстегі кез келген орынға орнатуға мүмкіндік береді. REV Channel бұл дискілерді, кронштейндерді және басқа элементтерді белгіленген аралықта орнатуға мүмкіндік беретін үлкен құрылымдық компонент. REV Channel-бұл дизайн икемділігі үшін бекітілген қадамдық жүйенің (кеңейтілген қозғалыс үлгісі деп аталады) және extrusion жүйесінің тіркесімі.
+REV DUO Build System екі негізгі құрылымдық құрамдас бөлікке ие,  [Extrusion](https://www.revrobotics.com/ftc/structure/15mm-extrusion/) және [Channel](https://www.revrobotics.com/competition/ftc/structure/channel/) . REV Extrusion бұл барлық төрт жағында [M3](https://www.revrobotics.com/ftc/hardware/fasteners/)  форматындағы бұйымдарға арналған ойықтары бар тікбұрышты құрылымдық рельс. Extrusion-дағы ойықтар кронштейндер мен басқа заттарды рельстегі кез келген орынға орнатуға мүмкіндік береді. REV Channel бұл дискілерді, кронштейндерді және басқа элементтерді белгіленген аралықта орнатуға мүмкіндік беретін үлкен құрылымдық компонент. REV Channel-бұл дизайн икемділігі үшін бекітілген қадамдық жүйенің (кеңейтілген қозғалыс үлгісі деп аталады) және extrusion жүйесінің тіркесімі.
 
 ****
 
@@ -20,7 +20,7 @@ REV DUO Build System екі негізгі құрылымдық құрамдас
 
 ### Extended Motion Pattern&#x20;
 
-15 мм экструзиядан айырмашылығы, REV DUO-ның басқа компоненттері бекітілген қадамға ие.[Structural brackets](broken-reference) have M3 holes on an 8mm pitch. While [Motion Brackets](broken-reference) have the Motion Pattern, a circular M3 hole pattern on a 16mm diameter is used to mount to REV Robotics shaft accessories.&#x20;
+15 мм Extrusion-дан айырмашылығы, REV DUO-ның басқа компоненттері бекітілген қадамға ие. Құрылымдық кронштейндерде 8 мм қадамы бар M3 саңылаулары бар. жылжымалы кронштейндерде қозғалыс схемасы болса, REV Robotics білігінің керек-жарақтарына бекіту үшін диаметрі 16 мм дөңгелек M3 тесік схемасы қолданылады.
 
 C арнасы, U арнасы және жалпақ табақша кеңейтілген қозғалыс схемасына ие, диаметрі 32 мм дөңгелек M3 саңылауы бар өзгертілген қозғалыс схемасы бар. бұл мойынтіректерді, біліктерді, кронштейндерді және т. б. орнату үшін арнаның бүкіл ұзындығы бойынша қайталанады.
 
