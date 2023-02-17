@@ -53,7 +53,7 @@ _5 мм алтыбұрышты білікті қалай дұрыс пайдал
 
 REV Robotics білігінің жеңі ішкі диаметрі 6 мм және M3 жіптері бар, сондықтан берілген бұранданың орнына стандартты алтыбұрышты болтты қолдануға болады.
 
-#### Аралықтар <a href="#spacers" id="spacers"></a>
+#### Спейсерлер <a href="#spacers" id="spacers"></a>
 
 <figure><img src="https://2589213514-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M5yw0n8IneF5-9ybLjT%2F-M8HWKFWVMF01V1EElAP%2F-M8HZobqWk7JIkgR1rc4%2Fimage.png?alt=media&#x26;token=07fb5484-ca52-47af-b4cc-64838e326489" alt=""><figcaption></figcaption></figure>
 
