@@ -2,8 +2,7 @@
 description: M3 жабдықтар негіздері
 ---
 
-# M3 Hardware
-
+# M3 аппараттық құрал
 REV duo құрастыру жүйесі кронштейндер мен конструкцияларды роботқа қосу немесе бекіту үшін [M3 жабдығын](https://www.revrobotics.com/ftc/hardware/fasteners/) пайдаланады. Әр түрлі қолдану үшін әр түрлі ұзындықтағы бұрандалар қажет. Кронштейнді Extrusion-ға бекіту әдетте қысқа бұрандаларды қажет етеді. Басқару жүйесінің компоненттерін және басқа қалың материалдарды қосу үшін ұзын бұрандаларды қолданыңыз.
 
 <figure><img src="https://2589213514-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M5yw0n8IneF5-9ybLjT%2F-MBdaAEM_fx2eAmY_r3b%2F-MBdecpvUjZ0yPGnieHq%2FM3_Nut_Nyloc_Nut_Hex_Head_Screw.png?alt=media&#x26;token=c9c22723-35b9-4ad9-9525-584301d881c8" alt=""><figcaption></figcaption></figure>
