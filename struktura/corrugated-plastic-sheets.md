@@ -1,5 +1,5 @@
 ---
-description: Основы гофрированных пластиковых пластин
+description: Гофрленген пластмасса табақтардың негіздері
 ---
 
 # Corrugated Plastic Sheets
