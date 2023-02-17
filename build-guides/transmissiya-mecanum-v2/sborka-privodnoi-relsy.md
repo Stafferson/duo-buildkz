@@ -36,11 +36,11 @@
 | [REV-41-1324](https://www.revrobotics.com/5mm-Hex-Spacers/)       | 3mm Spacer - 16 Pack                        | 1    |
 | [REV-41-1327](https://www.revrobotics.com/rev-41-1327-pk10/)      | Shaft Collar - 10 Pack                      | 1    |
 | [REV-41-1348](https://www.revrobotics.com/5mm-Hex-Shafts/)        | 5mm x 90mm Hex Shaft - 4 Pack               | 1    |
-| [REV-41-1359](https://www.revrobotics.com/M3-Hex-Cap-Screws/)     | M3 x 8mm Hex Cap болты - 100 Pack           | 1    |
-| [REV-41-1713](https://www.revrobotics.com/M3-Hex-Cap-Screws/)     | M3 x 6mm Hex Cap болты - 50 Pack            | 1    |
-| [REV-41-1361](https://www.revrobotics.com/rev-41-1361-pk100/)     | M3 Nyloc гайки - 100 Pack                   | 1    |
+| [REV-41-1359](https://www.revrobotics.com/M3-Hex-Cap-Screws/)     | M3 x 6 мм алты қырлы қақпақ болттар - 1000 пакет          | 1    |
+| [REV-41-1713](https://www.revrobotics.com/M3-Hex-Cap-Screws/)     |M3 x 6 мм алты қырлы қақпақ болттар - 50 пакет          | 1    |
+| [REV-41-1361](https://www.revrobotics.com/rev-41-1361-pk100/)     | M3 Nyloc жаңғақтары - 100 қаптама             | 1    |
 | [REV-41-1762](https://www.revrobotics.com/rev-41-1762/)           | 45mm x 15mm C Channel - 408mm               | 4    |
-| [REV-45-1655](https://www.revrobotics.com/rev-45-1655/)           | Набор  75mm Mecanum колес                   | 1    |
+| [REV-45-1655](https://www.revrobotics.com/rev-45-1655/)           | 75 мм Mecanum колонкасын орнатыңызс                   | 1    |
 
 ### Жетек рельстерін құрастыру қадамдары
 
